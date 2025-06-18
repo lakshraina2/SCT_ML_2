@@ -1,3 +1,4 @@
+
 # Customer Segmentation using K-Means Clustering
 
 This project was completed as part of a Machine Learning internship at **SkillCraft Technologies**.
@@ -31,3 +32,6 @@ The model successfully segmented customers into 5 distinct groups based on purch
 ```bash
 pip install -r requirements.txt
 python KMeans_Customer_Clustering.py
+=======
+# SCT_ML_2
+>>>>>>> 349fd6f573060936db32840851be4541554f5370
